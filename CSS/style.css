@@ -1,0 +1,312 @@
+body{
+
+    background-color: black;
+    margin: 0px  200px  0px  200px;
+    font-family: "https: //fonts.googleapis.com/css2? family = Roboto: wght @ 300 & display = swap "
+    
+
+}
+
+
+.logo{
+
+    width: 90%; 
+    background-color: rgb(0, 0, 0);
+    margin:0 auto; 
+    margin-right: 45px;
+    display:block;
+
+ }
+
+.logoimagen{ 
+    margin: 0 auto;
+    width: 500px;
+    display:block
+}
+::content{
+    width: auto;
+}
+nav{ 
+
+background-color:rgb(0, 0, 0);
+padding: 20px 0px 20px 0px;
+text-align: center;
+}
+
+
+.barradenavegacion{
+    display: inline-flex;
+    background-color:rgba(6, 6, 7, 0.234);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navegacion{
+    padding: 10px 60px 10px 60px;
+}
+
+.navegacion:hover {
+    background-color: rgba(231, 234, 238, 0.72);
+    
+}
+
+.navegacion a{
+text-decoration: none;
+color: rgb(40, 95, 155);
+font-weight: 900;
+}
+
+.parallax {
+background-image: url(../Nirvana/nirvan.1jpg.jpg);
+min-height: 1000px;
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center;
+background-attachment: fixed;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+
+div.tituloparallax h2{
+
+font-size: 2cm;
+color: rgb(40, 95, 155);
+font-weight: 700;
+text-align: center;
+
+}
+
+.parrafoparallax{
+
+display: flex;
+border: 2px solid rgb(219, 207, 207);
+justify-content: center;
+
+}
+
+
+.parrafoparallax:hover{
+
+background-color: rgb(6, 7, 7);
+opacity: 0.9;
+
+}
+
+.parrafoparallax a {
+
+font-size: 25px;
+color: white;
+font-weight: 400;
+padding: 10px   30px; 
+margin: 0;
+text-decoration: none;
+} 
+
+.information{
+
+    display: inline-flex;
+
+ }
+
+ .information p{
+    color: rgb(255, 255, 255);
+    max-width: 50%;
+    margin: 0;
+    align-self: center;
+    padding-left: 10px;
+    line-height: 28px;
+    font-size: 30px;
+   
+ }
+
+ .tituloNIRVANA{
+    font-size: 65px;
+    font-weight: 700;
+    color: rgb(207, 187, 35);
+
+    
+ }
+
+ .tituloNIRVANA2{
+    font-size: 35px;
+    font-weight: 700;
+    color: rgb(207, 187, 35);
+ }
+
+ .information img{
+    max-width: 50%;
+    height: 80;
+    padding: 0;
+ }
+
+
+  .contentmusic{
+
+ font-family: 'Big Shoulders Display', cursive; 
+ letter-spacing: 5px;
+ line-height: 1.2px;
+ 
+ 
+ }
+
+ .contentmusic h2{
+   margin: 200cm 0cm;
+   font-size: 1.5px;
+   color: blanchedalmond;
+   font-weight: 900;
+   text-align: center;
+
+ }
+
+ .container {
+
+   display: flex;
+   justify-content: center;
+   margin: auto;
+
+ }
+ .container .card{
+
+   width: 400px;
+   height: 500px;
+   border-radius: 8px;
+   box-shadow: 0 2px 2px rgba(253, 252, 252, 0.939);
+   overflow: hidden;
+   margin: 0 10px;
+   text-align: center;
+   background-color: black;
+   transition: all 0.25s;
+
+ } 
+
+ .container .card:hover{
+    transform: translateY(-15px);
+    box-shadow: 0 12px 16px rgba(255, 255, 255, 0.631);
+
+ }
+
+ .container .card img{
+    width: 250px;
+    height: 300px;
+
+ }
+
+ .container .card h3{
+
+   font-weight: 600;
+   color: blanchedalmond;
+
+ }
+
+ .container .card p{
+
+   padding: 0 1rem;
+   font-size: 16px;
+   font-weight: 300;
+   color: burlywood;
+
+ }
+
+ .videos{
+
+    margin: 50px 0px 0px 0px;
+
+ }
+
+ .imagensection{
+
+   display: flex;
+   justify-content: center;
+   margin-bottom: 50px;
+
+ }
+
+ .imagensection img{
+
+   width: auto;
+   height: 100px;
+   background-color: black;
+
+ }
+
+ .iframeprincipal {
+
+   display: flex;
+   justify-content: center;
+
+ }
+
+ .iframes{
+
+   display: flex;
+   justify-content: space-around;
+   padding: 20px;
+
+ }
+
+ .iframes iframe{
+
+   margin-top: 40px;
+   padding: 20px;
+
+
+ }
+
+ .final {
+
+   background-color: black;
+   min-height: 100px;
+   margin-top: 100px;
+
+ }
+
+ .final p{
+    text-align: center;
+    font-weight: 400;
+    color: white;
+
+ }
+
+ 
+
+.iframes{
+
+  width: 280px;
+  height: 290px;
+  justify-content: flex-start;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
